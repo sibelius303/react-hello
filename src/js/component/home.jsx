@@ -11,9 +11,9 @@ const Home = () => {
 		<>
 			<Navbar/>
 			<div className="row">
-			<Card/>
-			<Card/>
-			<Card/>
+				<Card img= "https://picsum.photos/200/300?random=1"/>
+				<Card img= "https://picsum.photos/200/300?random=2"/>
+				<Card img= "https://picsum.photos/200/300?random=3"/>
 			</div>
 			<Footer/>
 		</>
